@@ -11,7 +11,7 @@ A multinational logistics provider is experiencing inconsistent delivery times a
 🛠️ Data Infrastructure & Tech Stack
 * Cloud Environment: Google Colab Ecosystem
 * Data Engineering & Wrangling: Python 3, Pandas, NumPy
-* Relational Database & Analytics:** SQLite3 (Using Common Table Expressions, Window Functions, and Multi-Table Inner Joins)
+* Relational Database & Analytics: SQLite3 (Using Common Table Expressions, Window Functions, and Multi-Table Inner Joins)
 * Data Visualization: Matplotlib & Seaborn
 
 🗄️ Relational Database Architecture
