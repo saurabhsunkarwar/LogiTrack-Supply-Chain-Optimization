@@ -27,5 +27,5 @@ The analytical engine joins three relational database objects:
 ---
 
 #🚀 How to Explore the Analysis
-Simply open the 
-"LogiTrack_Supply_Chain_Project.ipynb" file inside this repository to review the fully executed code blocks, mathematical cleaning routines, interactive data frames, and graphical diagnostic charts.
+---
+Simply open the "LogiTrack_Supply_Chain_Project.ipynb" file inside this repository to review the fully executed code blocks, mathematical cleaning routines, interactive data frames, and graphical diagnostic charts.
